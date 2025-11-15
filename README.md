@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-🚀 Atualmente explorando o ecossistema full stack — do front ao back-end.<br>⚛️ Estudando React, Next.js, TypeScript, Prisma e Nexus.<br>🔗 Aprofundando integração entre front-end e back-end com APIs REST.<br>🧩 Praticando organização de código e componentização inteligente.<br><br>💻 Hiperfoco em hardware e infraestrutura.<br>🎮 Amante de músicas e videogames.
+🚀 Atualmente explorando o ecossistema full stack, do front ao back-end.<br>⚛️ Estudando React, Next.js, TypeScript, Prisma e Nexus.<br>🔗 Aprofundando integração entre front-end e back-end com APIs REST.<br>🧩 Praticando organização de código e componentização inteligente.<br><br>💻 Hiperfoco em hardware e infraestrutura.<br>🎮 Amante de músicas e videogames.
 
 
 ## 🌐 Socials:
